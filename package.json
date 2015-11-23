@@ -1,0 +1,17 @@
+{
+  "name": "auto-avatar",
+  "version": "0.1.0",
+  "private": true,
+  "main": "app.coffee",
+  "dependencies": {
+    "config": "^1.17.1",
+    "cron": "^1.0.9",
+    "lodash": "^3.10.1",
+    "request": "^2.36.0",
+    "striker-util": "git+ssh://git@code.teambition.com:server/striker-util.git#v0.5.2"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "should": "^7.1.0"
+  }
+}
